@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/tharindadilsh10" target="blank"><img src="https://img.shields.io/twitter/follow/tharindadilsh10?logo=twitter&style=for-the-badge" alt="tharindadilsh10" /></a> </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="600" alt="GIF" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
